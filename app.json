@@ -1,5 +1,5 @@
 {
-    "name": "Autofilter",
+    "name": "𝐥𝐮𝐭𝐭𝐚𝐩𝐢",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -19,7 +19,7 @@
     "repository": "https://github.com/Mishel-Tg/AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "8118241687:AAGXIxep3LJwwxtS8680BSgEOpWTQDmYHOE",
             "required": true
         },
         "API_ID": {
